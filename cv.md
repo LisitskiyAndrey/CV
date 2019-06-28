@@ -1,4 +1,4 @@
-# Andrey Lisitski
+# Andrey Lisitskiy
 
 # QA Automation Engineer
 
@@ -29,8 +29,8 @@ contacts at work quickly.
 | Types of testing: | Automated testing, Functional testing, GUI Testing, REST API testing |
 | Programming languages: | Java|
 | Technologies: | XML/JSON/Xpath, REST|
-| Testing Tools: | TestNG/Junit, Selenium WebDriver|
-| Building Tools: | Maven, Gradle |
+| Testing Tools: | TestNG/Junit, Selenium WebDriver |
+| Building Tools: | Maven |
 | Databases: | MySQL, MS SQL, Redis|
 | IDEs |IntelliJ IDEA , Eclipse, MS Visual Studio |
 | SCM: Version Control Systems:|Git, TFS |
@@ -71,7 +71,7 @@ contacts at work quickly.
 
  **May-2017 - March 2018**
 
-**QA Automation Engineer, [A-Soft](www.andersenlab.com/‎)**
+**QA Automation Engineer, [A-Soft](https://www.andersenlab.com/‎)**
 
 **Customer:** IHS, USA
 
@@ -90,6 +90,8 @@ contacts at work quickly.
 **Environment:** Jenkins, Selenium, C#, TestNG, Selenium WebDriver
 
 *******************************************************************************************************
+
+## Education
 
 **November-2016 - May-2017**
 
@@ -110,3 +112,15 @@ contacts at work quickly.
 **Environment:** MySQL, IntelliJ IDEA, Jenkins, Java, Selenium WebDriver, Junit, Maven
 
 *******************************************************************************************************
+
+**2009-2013**
+
+**Name of the Education Establishment:** Belarusian National Technical University
+
+**Faculty/College:** Energy Efficient Technologies and Power Engineering Management
+
+**Degree (diploma):** Specialist
+
+**Specialty:** Engineer. Power Manager
+
+******************************************************************************************************* 
