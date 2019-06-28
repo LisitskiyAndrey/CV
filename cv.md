@@ -1,4 +1,4 @@
-# Andrey Lisitskiy
+# Andrey Lisitski
 
 # QA Automation Engineer
 
